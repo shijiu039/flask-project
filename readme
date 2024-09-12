@@ -4,3 +4,5 @@ PythonWeb开发框架：Flask
 pip install pymysql
 
 pip install Flask_SQLAlchemy
+
+代码使用GitHub进行管理，GitHub链接为：https://github.com/shijiu039/flask-project.git
