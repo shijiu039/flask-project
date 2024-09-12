@@ -6,3 +6,5 @@ pip install pymysql
 pip install Flask_SQLAlchemy
 
 代码使用GitHub进行管理，GitHub链接为：https://github.com/shijiu039/flask-project.git
+
+使用时需要创建一个flickr30k-images文件来存放图片。
