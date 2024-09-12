@@ -1,0 +1,6 @@
+PythonWeb开发框架：Flask
+
+
+pip install pymysql
+
+pip install Flask_SQLAlchemy
